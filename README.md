@@ -1,4 +1,4 @@
 # Integer
-  ## Provides Unsigned and Signed integer structs of any size.
+  ## Provides Unsigned and Signed Integer structs of any size.
   
   ### No installation required. Just include the files in your project.
